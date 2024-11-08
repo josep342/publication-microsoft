@@ -1,0 +1,17 @@
+CODE DE RETOUR
+
+0:installation reussie
+
+1:package rejetter
+
+2:network down
+
+3:relancer les dependances 
+
+4:espace de stockage
+
+5:installation deja encours
+
+6:installation existe deja
+
+7:installation interrompue
